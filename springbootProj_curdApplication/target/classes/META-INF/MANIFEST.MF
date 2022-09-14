@@ -1,10 +1,10 @@
 Manifest-Version: 1.0
-Built-By: Neosoft
-Build-Jdk: 17.0.3
 Implementation-Title: springbootProj_curdApplication
 Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Rohit
 Implementation-Vendor-Id: com.employee
-Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
- -starter-parent/springbootProj_curdApplication
+Build-Jdk: 1.8.0_333
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springbootProj_curdApplication
 Created-By: Maven Integration for Eclipse
 
